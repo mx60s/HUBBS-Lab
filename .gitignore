@@ -1,7 +1,4 @@
 .DS_Store
 */.DS_Store
-data/PRE/*
 ipynb_checkpoints/*
 .ipynb_checkpoints/*
-data/*
-data/slimmed/
